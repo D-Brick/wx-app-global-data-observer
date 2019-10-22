@@ -35,7 +35,9 @@
                 let _this = this
                 app.makeWatcher("wxMinix.userInfo", function(newValue) {
                     _this.setData({
-                        userInfo: newValue  //希望app.globalData.wxMinix.userInfo发生改变时，当前组件的userInfo字段也能发生变化
+                        userInfo: newValue  
+                        //希望app.globalData.wxMinix.userInfo发生改变时
+                        //当前组件的userInfo字段也能发生变化
                     })
                 })
             },
