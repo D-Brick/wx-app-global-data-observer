@@ -27,7 +27,8 @@
         }
     })
 
-### 5.在任意page或component中的onLoad或attached中实例化Watcher，并在回调函数中设置希望随app.globalData改变而改变的data或properties字段，例如：
+### 5.在任意page或component中的onLoad或attached中实例化Watcher，并在回调函数中设置希望随app.globalData改变而改变的data或properties字段。例如：
+    const app = getApp()
     Component({
         lifetimes: {
             attached: function () {
