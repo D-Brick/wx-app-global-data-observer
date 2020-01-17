@@ -1,7 +1,7 @@
 {
   "name": "wx-app-global-data-observer",
-  "version": "1.0.2",
-  "description": "Observe globalData in app.js for Weixin mini program",
+  "version": "1.0.3",
+  "description": "微信小程序全局状态管理方案，提供响应式的app.globalData。",
   "miniprogram": "dist",
   "main": "dist/index.js",
   "scripts": {

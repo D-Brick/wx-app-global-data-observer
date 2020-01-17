@@ -1,5 +1,5 @@
 # wx-app-global-data-ovserver
-监听app.globaData中的数据，在其修改时进行想要的操作。
+微信小程序全局状态管理方案，提供响应式的app.globalData。
 
 ### 1.在app.js文件中引入小程序构建npm后的模块，例如：
     let Observer = require('wx-app-global-data-observer')
