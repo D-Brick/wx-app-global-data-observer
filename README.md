@@ -1,4 +1,4 @@
-# wx-global-data-ovserver
+# wx-app-global-data-ovserver
 监听app.globaData中的数据，在其修改时进行想要的操作。
 
 ### 1.在app.js文件中引入小程序构建npm后的模块，例如：
