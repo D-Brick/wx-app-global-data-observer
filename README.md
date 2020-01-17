@@ -1,7 +1,7 @@
 # wx-global-data-ovserver
-Observe globalData in app.js for Weixin mini program
+监听app.globaData中的数据，在其修改时进行想要的操作。
 
-### 1.在app.js文件中引入Observer模块，例如：
+### 1.在app.js文件中引入小程序构建npm后的模块，例如：
     let Observer = require('wx-app-global-data-observer')
     let observer = new Observer()
 
