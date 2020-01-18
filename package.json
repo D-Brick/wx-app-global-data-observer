@@ -1,6 +1,6 @@
 {
   "name": "wx-app-global-data-observer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "微信小程序全局状态管理方案，提供响应式的app.globalData。",
   "miniprogram": "dist",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/D-Brick/WxMinix"
+    "url": "git+https://github.com/D-Brick/wx-app-global-data-observer"
   },
   "keywords": [
     "globalData",
@@ -20,7 +20,7 @@
   "author": "d-brick",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/D-Brick/WxMinix/issues"
+    "url": "https://github.com/D-Brick/wx-app-global-data-observer/issues"
   },
-  "homepage": "https://github.com/D-Brick/WxMinix#readme"
+  "homepage": "https://github.com/D-Brick/wx-app-global-data-observer#readme"
 }

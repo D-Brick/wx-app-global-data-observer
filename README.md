@@ -1,4 +1,4 @@
-# wx-app-global-data-ovserver
+# wx-app-global-data-observer
 微信小程序全局状态管理方案，提供响应式的app.globalData。
 
 ### 1.在app.js文件中引入小程序构建npm后的模块，例如：
