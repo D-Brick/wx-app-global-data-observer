@@ -35,7 +35,7 @@
                     _this.setData({
                         userInfo: newValue  
                         //希望app.globalData.wxMinix.userInfo发生改变时
-                        //当前组件的userInfo字段也能发生变化
+                        //当前组件的info字段也能发生变化
                     })
                 })
             },

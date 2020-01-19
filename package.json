@@ -1,6 +1,6 @@
 {
   "name": "wx-app-global-data-observer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "微信小程序全局状态管理方案，提供响应式的app.globalData。",
   "miniprogram": "dist",
   "main": "dist/index.js",
